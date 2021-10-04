@@ -1,0 +1,9 @@
+como é possiveldescobrie qual é a fonte padrão de renderização do navegador
+por meio do DEV TOOL VC vai selecionar o elemento rood que é o html o
+body em outros navegadores e olhar no parametro de calculados e ver a 
+fonte especificada normalmente é entre 16 e 18
+
+
+é verdade que qdo alteramos um css no DEV TOOL automaticamente alteramos o arquivo
+não. a modificação ela é virtual para visualização mas isso não altera o arquivo css
+

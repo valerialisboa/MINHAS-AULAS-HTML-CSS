@@ -1,0 +1,9 @@
+Quais os posiveis metodos para um diferenciar um seletor em um estilo CSS
+
+
+Qual a finaliade de atributo HREF em uma âncora.
+
+
+
+Qual é a tag semantica para criar menus de navegação.
+

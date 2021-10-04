@@ -1,0 +1,12 @@
+1. No CSS um elemento filho pode ser referenciado por uma separação de espaço.
+sim pode ser referenciado poemos referenciar tbém com sinal de maior temos o elemento pai a esquerda 
+PAI> FILHO1 > FILHO_DO_FILHO 
+
+2. a propriedade CSS backgroud-size permitirá renderizar um tamanho, além de alterar
+o tamanho do espaço do arquivo.
+Nao é vdd.  ele vai sim renderalterar o tamanho para a visualização 
+mas não altera o tamanho do arquivo original.
+
+3. A tag responsável por criar titulos em 6 niveis é a HEADER.
+não, não é vdd
+a tag responsável é a h1...h6

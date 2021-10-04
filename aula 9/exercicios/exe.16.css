@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+#content_img{
+    background-image: url(../img/frutas.jpeg);
+    background-size: 25%;
+background-repeat: repeat-y;
+border: 1px solid black;
+width: 800%;
+height: 600px;
+}
+

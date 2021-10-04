@@ -1,0 +1,5 @@
+qual a tag semantica que servira de container para as tags deparagrafo <p>
+1. utilizamos a tag <article> como container das tags do tipo <p>
+
+2. uma tag de paragrafo pode ser substituida por uma tag <div> principalmente para textos longos
+nao, pois isso faz com que os buscadores fiquem menos semanticos.

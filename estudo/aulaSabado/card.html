@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>card 1</title>
+</head>
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .flex{
+        display: flex;
+    }
+    .center-hv{
+    justify-content: center;
+    align-items: center;
+    }
+    .tela {
+     width: 320px;
+     height: 180px;
+     background: color #37474f;
+     border-radius: 5px;
+     justify-content: space-between;
+     margin: 3px;
+ }
+ .topo.rodape{
+     width: 100px;
+     height: 40px;
+     padding: 5px;
+     align-items: center;
+ }
+ .column{
+     flex-direction: column;
+     border-radius: 5px;
+ }
+
+ .flex-end{
+     justify-content: flex-end;
+      }  
+      
+.rodape > label{
+    font-size: 180px;
+    font-weight: bold;
+    color: #fff;
+}
+
+
+
+</style>
+<body class="flex cente-hv">
+
+    <div class="topo flex"><span class="material-icons flex mic center-hv">
+      mic_off</span></div>
+    <div class="bola fex center-hv"> <label>V</label></div>
+    <div class="rodape flex"><label>Valeria lisboa</label></div>
+</body>
+</html>

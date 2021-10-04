@@ -1,0 +1,14 @@
+// EXERCICIO 24
+
+1. O que a propriedade css padding irá proporcionar em um elemento html
+o padding proporcia prenchimento interno no elemento
+
+
+2. É vdd que todos os elementos html possuem por padrão a propriedade position no estado STICKY
+não. por padrão STICKY
+
+
+3. Qual é a vantagem de utilizar o atributo ALT em um elemento <img>
+uma delas é que se a imagem não for carregada irá aparecer uma descrição da imagem.
+outra vantagem é que o leitores de tela vão auxiliar as
+pessoas com deficiencia - visual fisica pois contem uma imageme uma descrição dela.

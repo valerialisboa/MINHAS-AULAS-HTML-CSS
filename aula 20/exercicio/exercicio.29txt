@@ -1,0 +1,23 @@
+Qual a diferença da unidade de medida em e rem
+a unidade basica a em vai procurar a formatação de medida do proximo elemento pai 
+
+<div id="pai">
+div id="filho"></div>
+</div>
+
+não é porque foi atribuido um id=pai e id=filho que elas são paie filho
+poderia não ter id nemhum e seria atribuido ao pai porque é assim que funciona a estrutura box model 
+colocamos elementos um dentro do outro e um fica sendo ancestral do outrodo elemento pai.
+mas tem uma execão qdo a propriedade for margin, padding e botoon ele não vai 
+pegar as medidas e sim as medidas locais.
+O rem vai pegar as medidas root > que é o html
+
+como é criada uma variavel no CSS. De um exemplo.
+
+:root {
+    --nome_da_var:valor
+}
+Pode ser cor
+valor
+fonte
+formatação de tamanho

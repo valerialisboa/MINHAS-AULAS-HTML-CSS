@@ -1,0 +1,18 @@
+EXERCICIO - 24
+Dê uma definição para o elemento HTML <body>.
+o bady é umas das tag mais iportantes da estrutura HTML é dentro do body que vc irá construir
+toda estrutura HTML da sua pagina e ele corresponde a todo conteudo da sua pagina.
+
+
+É correto dizer que por padrão o tdos os elementos HTML possuem
+uma definicão de margine padding.
+não é correto. pois nem todos elementos possuem definicão criadas com padding e margem
+alguns sim como ex. hi....h6
+
+Uma tag <figure> pode conter varias tag <figurecaption>.
+não é correto. devemos usar apenas uma tag <figurecaption> para cada <figurecaption>.
+
+
+<figure>
+<figurecaption><figurecaption>
+<figurecaption

@@ -1,0 +1,33 @@
+//EXERCICIO 20
+
+1. qual propriedade CSS que permite aplicar um degrade em um elemento HTML de um exemplo.
+Linear-gradient
+exemplo:
+div { 
+    background-image: linear-gradient( to right, red, green, yellow, blue ); 
+}
+
+por padrão, recomendado que a aplicação do CSS seja na forma inline ou mesmo no próprio corpo 
+do código HTML.
+nao é recomendado fazer codigos de estilizacao inline pois isso gera poluicao de codigo o mais
+ideal seria ter um arquivo especifico para as estilizacoes 
+
+3. qual a diferença  básica entre a unidade de medida pixel.(px) e a unidade em percentual (%)
+a diferenca entre as unidades px e % sao:
+pixel seria um modelo onde voce define um tamanho fixo digitado no css
+percentual seria uma medida onde ele define o tamanho de acordo com o tamanho real da pagina em percentual
+exemplo quero uma div de 10% de largura
+ira pegar o tamanha da pagina e aplicar somente 10% de largura fazendo ele ser um pouco mais flexivel de acordo com o tamanho da tela.
+
+//EXERCICIO 21
+
+É verdade que todos arquivos CSS precisa estar dentro de outra pasta  para que 
+o navegador possa renderizar os estilos das propriedades CSS
+não. mas é bom ter uma pasta separada para ficar organizados.
+2. É verdade que todos elemento HTML possui por padrão elementos filhos
+não, não é verdade. é vdd que alguns elemento HTML possam sim ter um ou outro elementos filho 
+mas nem todos elemento HTML terão elementos filhos porem tbém é vdd que se eu crio um elemento por ex. uma 
+div com um container e eu coloco alguns elemento lá dentro aquele elemento se torna-se filho.
+
+
+3. o que é viewport

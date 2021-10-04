@@ -1,0 +1,14 @@
+como podemos definir uma url, de um exemplo.
+url é um conjunto de elementos que correspondem ao protocolo HTTP
+ao endereço de dominio e as paginas que estão agregada ao dominio
+exemplo: massa da madre - é uma url
+
+o que é o HTTP
+é um protocolo de comunicação entre o navegador e webservic o servidor de paginas de internet
+protocolo faz a requisição para webservic webservic responde se ele encontar a paginas é 
+carregada no seu navegador. 
+
+o que são vendors em css
+são prefisso s que osfabricantes dispõem no css para teste
+
+

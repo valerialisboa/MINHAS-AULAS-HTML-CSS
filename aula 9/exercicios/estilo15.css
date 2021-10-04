@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background-image: url(../img/frutas.jpeg);
+    background-size: 25%;
+    background-repeat: repeat-x;
+
+}
+
